@@ -37,7 +37,7 @@ Soy desarrollador de software y estudiante de la Tecnicatura Universitaria en Pr
 
 ### 📊 Mis Estadísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fabricioalegre98&show_icons=true&theme=dark&hide_border=true" height="165" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricioalegre98&layout=compact&theme=dark&hide_border=true" height="165" alt="Lenguajes más usados" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fabricioalegre98&show_icons=true&theme=dark&hide_border=true&v=1" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricioalegre98&layout=compact&theme=dark&hide_border=true&v=1" alt="Lenguajes más usados" />
+</p>
