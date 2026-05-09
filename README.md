@@ -35,6 +35,24 @@ Soy desarrollador de software y estudiante de la Tecnicatura Universitaria en Pr
 
 ---
 
+---
+
 ### 📊 Mis Estadísticas
 
-[![Racha de GitHub](https://streak-stats.demolab.com?user=Fabricioalegre98&theme=dark&hide_border=true)](https://github.com/Fabricioalegre98)
+<div align="center">
+
+  <!-- Tarjeta de Racha (La que ya te funciona) -->
+  <a href="https://github.com/Fabricioalegre98">
+    <img src="https://streak-stats.demolab.com?user=Fabricioalegre98&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" alt="Racha de GitHub" />
+  </a>
+  <br>
+  
+  <!-- Tarjeta General y Tarjeta de Lenguajes -->
+  <a href="https://github.com/Fabricioalegre98">
+    <img src="https://github-readme-stats.vercel.app/api?username=Fabricioalegre98&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="Estadísticas de GitHub" />
+  </a>
+  <a href="https://github.com/Fabricioalegre98">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricioalegre98&layout=compact&theme=dark&hide_border=true" height="150" alt="Lenguajes más usados" />
+  </a>
+
+</div>
