@@ -32,3 +32,12 @@ Soy desarrollador de software y estudiante de la Tecnicatura Universitaria en Pr
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-00468E?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4CA143?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+### 📊 Mis Estadísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fabricioalegre98&show_icons=true&theme=dark&hide_border=true" height="165" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricioalegre98&layout=compact&theme=dark&hide_border=true" height="165" alt="Lenguajes más usados" />
+</div>
