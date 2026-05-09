@@ -37,6 +37,4 @@ Soy desarrollador de software y estudiante de la Tecnicatura Universitaria en Pr
 
 ### 📊 Mis Estadísticas
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Fabricioalegre98&show_icons=true&theme=dark&hide_border=true)](https://github.com/Fabricioalegre98)
-
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricioalegre98&layout=compact&theme=dark&hide_border=true)](https://github.com/Fabricioalegre98)
+[![Racha de GitHub](https://streak-stats.demolab.com?user=Fabricioalegre98&theme=dark&hide_border=true)](https://github.com/Fabricioalegre98)
