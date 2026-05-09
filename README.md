@@ -1,16 +1,34 @@
-## Hi there 👋
+# ¡Hola! Soy Fabricio 👋
 
-<!--
-**Fabricioalegre98/Fabricioalegre98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador de software y estudiante de la Tecnicatura Universitaria en Programación (TUP). Me enfoco en construir soluciones eficientes, escalables y en la resolución de problemas lógicos.
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente trabajando en el desarrollo de APIs REST y sistemas de gestión integrales.
+- 🌱 Aplicando arquitecturas escalables y transiciones de bases de datos relacionales a NoSQL.
+- 👯 Buscando colaborar en proyectos de código abierto y seguir aprendiendo las mejores prácticas de la industria.
+- 📫 Cómo contactarme: [Tu Enlace a LinkedIn] | [Tu Correo Electrónico]
+
+---
+
+### 🛠️ Stack Tecnológico
+
+**Frontend:**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+**Backend:**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+**Bases de Datos:**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-00468E?style=flat&logo=microsoft-sql-server&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4CA143?style=flat&logo=mongodb&logoColor=white)
