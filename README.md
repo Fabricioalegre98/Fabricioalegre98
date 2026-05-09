@@ -1,17 +1,17 @@
-# ¡Hola! Soy Fabricio 👋
+# Hi there! I'm Fabricio 👋
 
-Soy desarrollador de software y estudiante de la Tecnicatura Universitaria en Programación (TUP). Me enfoco en construir soluciones eficientes, escalables y en la resolución de problemas lógicos.
+I'm a Software Developer and a University Programming Degree (TUP) student from Resistencia, Chaco. I focus on building efficient, scalable solutions and logical problem-solving.
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 About me
 
-- 🔭 Actualmente trabajando en el desarrollo de APIs REST y sistemas de gestión integrales.
-- 🌱 Aplicando arquitecturas escalables y transiciones de bases de datos relacionales a NoSQL.
-- 👯 Buscando colaborar en proyectos de código abierto y seguir aprendiendo las mejores prácticas de la industria.
-- 📫 Cómo contactarme: [Tu Enlace a LinkedIn] | [Tu Correo Electrónico]
+- 🔭 Currently working on the development of REST APIs and comprehensive management systems.
+- 🌱 Applying scalable architectures and database migrations from SQL to NoSQL.
+- 👯 Looking to collaborate on open-source projects and keep learning industry best practices.
+- 📫 How to reach me: [Your LinkedIn URL] | [Your Email]
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Tech Stack
 
 **Frontend:**
 
@@ -26,7 +26,7 @@ Soy desarrollador de software y estudiante de la Tecnicatura Universitaria en Pr
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
-**Bases de Datos:**
+**Databases:**
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
@@ -35,24 +35,22 @@ Soy desarrollador de software y estudiante de la Tecnicatura Universitaria en Pr
 
 ---
 
----
-
----
-
-### 📊 Mis Estadísticas
+### 📊 My Stats
 
 <div align="center">
 
-  <!-- Tarjeta de Racha (La que funciona bien) -->
+  <!-- Streak Stats -->
   <a href="https://github.com/Fabricioalegre98">
-    <img src="https://streak-stats.demolab.com?user=Fabricioalegre98&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" alt="Racha de GitHub" />
+    <img src="https://streak-stats.demolab.com?user=Fabricioalegre98&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" alt="GitHub Streak" />
   </a>
   
   <br><br>
 
-  <!-- Gráfico de Actividad Dinámico (Alternativa estable) -->
+  <!-- Activity Graph -->
   <a href="https://github.com/Fabricioalegre98">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fabricioalegre98&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de Actividad" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fabricioalegre98&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
   </a>
 
 </div>
+
+---
