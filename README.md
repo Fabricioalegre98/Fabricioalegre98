@@ -47,12 +47,22 @@ Soy desarrollador de software y estudiante de la Tecnicatura Universitaria en Pr
   </a>
   <br>
   
-  <!-- Tarjeta General y Tarjeta de Lenguajes -->
+  ---
+
+### 📊 Mis Estadísticas
+
+<div align="center">
+
+  <!-- Tarjeta de Racha (La que funciona bien) -->
   <a href="https://github.com/Fabricioalegre98">
-    <img src="https://github-readme-stats.vercel.app/api?username=Fabricioalegre98&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="Estadísticas de GitHub" />
+    <img src="https://streak-stats.demolab.com?user=Fabricioalegre98&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" alt="Racha de GitHub" />
   </a>
+  
+  <br><br>
+
+  <!-- Gráfico de Actividad Dinámico (Alternativa estable) -->
   <a href="https://github.com/Fabricioalegre98">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricioalegre98&layout=compact&theme=dark&hide_border=true" height="150" alt="Lenguajes más usados" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fabricioalegre98&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de Actividad" />
   </a>
 
 </div>
