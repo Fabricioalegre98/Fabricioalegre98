@@ -7,7 +7,7 @@ I'm a Software Developer and a University Programming Degree (TUP) student from 
 - 🔭 Currently working on the development of REST APIs and comprehensive management systems.
 - 🌱 Applying scalable architectures and database migrations from SQL to NoSQL.
 - 👯 Looking to collaborate on open-source projects and keep learning industry best practices.
-- 📫 How to reach me: [Your LinkedIn URL] | [Your Email]
+- 📫 How to reach me: [https://www.linkedin.com/in/fabricio-alegre-983861334/] |
 
 ---
 
