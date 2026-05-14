@@ -2,7 +2,7 @@
 
 I'm a Software Developer and a University Programming Degree (TUP) student from Resistencia, Chaco. I focus on building efficient, scalable solutions and logical problem-solving.
 
-### 👨‍💻 About me
+### 👨‍💻 About me.
 
 - 🔭 Currently working on the development of REST APIs and comprehensive management systems.
 - 🌱 Applying scalable architectures and database migrations from SQL to NoSQL.
